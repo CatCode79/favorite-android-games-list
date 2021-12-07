@@ -25,11 +25,10 @@ A curated list of awesome mobile games for android. because we are all tired of 
 ## Strategy
 - [Antiyoy](https://play.google.com/store/apps/details?id=yio.tro.antiyoy.android&hl=Us&gl=Us) ([Online Version](https://play.google.com/store/apps/details?id=yio.tro.onliyoy&hl=en&gl=en))
 
-<br>
-## Apply to the list above or noteworthy mentions:<br>
-[Heroism](https://play.google.com/store/apps/details?id=com.minmaxia.heroism) (Beta)
-[SpacePlan](https://play.google.com/store/apps/details?id=com.devolver.spaceplan&hl=Us&gl=Us) (Not Free)
-[Loggin Quest](https://play.google.com/store/apps/details?id=com.shirobakama.logquest&hl=Us&gl=US) ([Next in the series](https://play.google.com/store/apps/details?id=com.shirobakama.logquest2&hl=Us&gl=US)) (Rough Gem)
-[Tower of Hero](https://play.google.com/store/apps/details?id=com.Tatsuki.Tower&hl=Us&gl=US) (Avarage longevity)
-[Underhand](https://play.google.com/store/apps/details?id=edu.cornell.gdiac.underhand&hl=Us&gl=US) (I have to play it)
-[Void Tyrant](https://play.google.com/store/apps/details?id=com.armorgames.voidtyrant&hl=Us&gl=US) (It's balanced?)
+# Apply to the list above or noteworthy mentions
+- [Heroism](https://play.google.com/store/apps/details?id=com.minmaxia.heroism) (Beta)
+- [SpacePlan](https://play.google.com/store/apps/details?id=com.devolver.spaceplan&hl=Us&gl=Us) (Not Free)
+- [Loggin Quest](https://play.google.com/store/apps/details?id=com.shirobakama.logquest&hl=Us&gl=US) ([Next in the series](https://play.google.com/store/apps/details?id=com.shirobakama.logquest2&hl=Us&gl=US)) (Rough Gem)
+- [Tower of Hero](https://play.google.com/store/apps/details?id=com.Tatsuki.Tower&hl=Us&gl=US) (Avarage longevity)
+- [Underhand](https://play.google.com/store/apps/details?id=edu.cornell.gdiac.underhand&hl=Us&gl=US) (I have to play it)
+- [Void Tyrant](https://play.google.com/store/apps/details?id=com.armorgames.voidtyrant&hl=Us&gl=US) (It's balanced?)
