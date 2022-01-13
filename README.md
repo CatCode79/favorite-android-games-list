@@ -5,13 +5,13 @@ A curated list of awesome mobile games for android. because we are all tired of 
 - [Unciv](https://play.google.com/store/apps/details?id=com.unciv.app&hl=Us&gl=Us) ([Open Source](https://github.com/yairm210/Unciv))
 
 ## Cards
-[Card Crawl](https://play.google.com/store/apps/details?id=com.tinytouchtales.cardcrawl)
-[Card Thief](https://play.google.com/store/apps/details?id=com.tinytouchtales.cardthief)
-[Dungeon Cards](https://play.google.com/store/apps/details?id=com.The717pixels.DungeonCards)
+- [Card Crawl](https://play.google.com/store/apps/details?id=com.tinytouchtales.cardcrawl)
+- [Card Thief](https://play.google.com/store/apps/details?id=com.tinytouchtales.cardthief)
+- [Dungeon Cards](https://play.google.com/store/apps/details?id=com.The717pixels.DungeonCards)
 
 ## Casual
-[The Burnable Garbage Day](https://play.google.com/store/apps/details?id=com.gameon.anohiwa&hl=Us&gl=Us)
-[Dungeon Soda](https://play.google.com/store/apps/details?id=com.armorgames.sodadungeon&hl=Us&gl=US) ([Next in the series](https://play.google.com/store/apps/details?id=com.armorgames.sodadungeon2&hl=Us&gl=US))
+- [The Burnable Garbage Day](https://play.google.com/store/apps/details?id=com.gameon.anohiwa&hl=Us&gl=Us)
+- [Dungeon Soda](https://play.google.com/store/apps/details?id=com.armorgames.sodadungeon&hl=Us&gl=US) ([Next in the series](https://play.google.com/store/apps/details?id=com.armorgames.sodadungeon2&hl=Us&gl=US))
 
 ## Idle
 - [Clickpocalipse](https://play.google.com/store/apps/details?id=com.minmaxia.c2&hl=Us&gl=Us)
