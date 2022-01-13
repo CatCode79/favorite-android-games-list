@@ -21,6 +21,7 @@ A curated list of awesome mobile games for android. because we are all tired of 
 ## Roguelike
 - [Pixel Dungeon](https://play.google.com/store/apps/details?id=com.watabou.pixeldungeon&hl=Us&gl=Us) ([Open Source](https://github.com/watabou/pixel-dungeon))
 - [Pathos: Nethack Codex](https://play.google.com/store/apps/details?id=com.x10host.pathos)
+- [Desktop Dungeon HTML5](http://www.desktopdungeons.net/HTML5/)
 
 ## Strategy
 - [Antiyoy](https://play.google.com/store/apps/details?id=yio.tro.antiyoy.android&hl=Us&gl=Us) ([Online Version](https://play.google.com/store/apps/details?id=yio.tro.onliyoy&hl=en&gl=en))
