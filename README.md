@@ -10,8 +10,8 @@ A curated list of awesome mobile games for android. because we are all tired of 
 - [Dungeon Cards](https://play.google.com/store/apps/details?id=com.The717pixels.DungeonCards)
 
 ## Casual
-- [The Burnable Garbage Day](https://play.google.com/store/apps/details?id=com.gameon.anohiwa&hl=Us&gl=Us)
 - [Dungeon Soda](https://play.google.com/store/apps/details?id=com.armorgames.sodadungeon&hl=Us&gl=US) ([Next in the series](https://play.google.com/store/apps/details?id=com.armorgames.sodadungeon2&hl=Us&gl=US))
+- [The Burnable Garbage Day](https://play.google.com/store/apps/details?id=com.gameon.anohiwa&hl=Us&gl=Us)
 
 ## Idle
 - [Clickpocalipse](https://play.google.com/store/apps/details?id=com.minmaxia.c2&hl=Us&gl=Us)
@@ -20,10 +20,10 @@ A curated list of awesome mobile games for android. because we are all tired of 
 
 ## Roguelike
 - [Cardinal Quest](https://play.google.com/store/apps/details?id=air.com.tametick.cardinalquest&hl=Us&gl=US) ([Next in the series](https://play.google.com/store/apps/details?id=com.kongregate.mobile.cardinalquest.google))
-- [Pixel Dungeon](https://play.google.com/store/apps/details?id=com.watabou.pixeldungeon&hl=Us&gl=Us) ([Open Source](https://github.com/watabou/pixel-dungeon))
-- [Pathos: Nethack Codex](https://play.google.com/store/apps/details?id=com.x10host.pathos)
 - [Desktop Dungeon HTML5](http://www.desktopdungeons.net/HTML5/)
 - [Dungeon Crawl:SS (ASCII)](https://play.google.com/store/apps/details?id=com.crawlmb&hl=Us&gl=US) ([Open Source](https://github.com/crawl/crawl))
+- [Pathos: Nethack Codex](https://play.google.com/store/apps/details?id=com.x10host.pathos)
+- [Pixel Dungeon](https://play.google.com/store/apps/details?id=com.watabou.pixeldungeon&hl=Us&gl=Us) ([Open Source](https://github.com/watabou/pixel-dungeon))
 - [Triglav](https://play.google.com/store/apps/details?id=com.SmokymonkeyS.Triglav&hl=Us&gl=US)
 
 ## Strategy
@@ -31,8 +31,8 @@ A curated list of awesome mobile games for android. because we are all tired of 
 
 # Future candidates or noteworthy mentions
 - [Heroism](https://play.google.com/store/apps/details?id=com.minmaxia.heroism) (Beta)
-- [SpacePlan](https://play.google.com/store/apps/details?id=com.devolver.spaceplan&hl=Us&gl=Us) (Not Free)
 - [Loggin Quest](https://play.google.com/store/apps/details?id=com.shirobakama.logquest&hl=Us&gl=US) ([Next in the series](https://play.google.com/store/apps/details?id=com.shirobakama.logquest2&hl=Us&gl=US)) (Rough Gem)
+- [SpacePlan](https://play.google.com/store/apps/details?id=com.devolver.spaceplan&hl=Us&gl=Us) (Not Free)
 - [Tower of Hero](https://play.google.com/store/apps/details?id=com.Tatsuki.Tower&hl=Us&gl=US) (Avarage longevity)
 - [Underhand](https://play.google.com/store/apps/details?id=edu.cornell.gdiac.underhand&hl=Us&gl=US) (I have to play it)
 - [Void Tyrant](https://play.google.com/store/apps/details?id=com.armorgames.voidtyrant&hl=Us&gl=US) (It's balanced?)
