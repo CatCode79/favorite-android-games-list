@@ -19,14 +19,17 @@ A curated list of awesome mobile games for android. because we are all tired of 
 - [Idling to Rule the Gods](https://play.google.com/store/apps/details?id=de.shugasu.itrtg&hl=Us&gl=Us)
 
 ## Roguelike
+- [Cardinal Quest](https://play.google.com/store/apps/details?id=air.com.tametick.cardinalquest&hl=Us&gl=US) ([Next in the series](https://play.google.com/store/apps/details?id=com.kongregate.mobile.cardinalquest.google))
 - [Pixel Dungeon](https://play.google.com/store/apps/details?id=com.watabou.pixeldungeon&hl=Us&gl=Us) ([Open Source](https://github.com/watabou/pixel-dungeon))
 - [Pathos: Nethack Codex](https://play.google.com/store/apps/details?id=com.x10host.pathos)
 - [Desktop Dungeon HTML5](http://www.desktopdungeons.net/HTML5/)
+- [Dungeon Crawl:SS (ASCII)](https://play.google.com/store/apps/details?id=com.crawlmb&hl=Us&gl=US) ([Open Source](https://github.com/crawl/crawl))
+- [Triglav](https://play.google.com/store/apps/details?id=com.SmokymonkeyS.Triglav&hl=Us&gl=US)
 
 ## Strategy
-- [Antiyoy](https://play.google.com/store/apps/details?id=yio.tro.antiyoy.android&hl=Us&gl=Us) ([Online Version](https://play.google.com/store/apps/details?id=yio.tro.onliyoy&hl=en&gl=en))
+- [Antiyoy](https://play.google.com/store/apps/details?id=yio.tro.antiyoy.android&hl=Us&gl=Us) ([Online Version](https://play.google.com/store/apps/details?id=yio.tro.onliyoy&hl=Us&gl=US))
 
-# Apply to the list above or noteworthy mentions
+# Future candidates or noteworthy mentions
 - [Heroism](https://play.google.com/store/apps/details?id=com.minmaxia.heroism) (Beta)
 - [SpacePlan](https://play.google.com/store/apps/details?id=com.devolver.spaceplan&hl=Us&gl=Us) (Not Free)
 - [Loggin Quest](https://play.google.com/store/apps/details?id=com.shirobakama.logquest&hl=Us&gl=US) ([Next in the series](https://play.google.com/store/apps/details?id=com.shirobakama.logquest2&hl=Us&gl=US)) (Rough Gem)
