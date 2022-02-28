@@ -13,6 +13,9 @@ A curated list of awesome mobile games for android. because we are all tired of 
 - [Dungeon Soda](https://play.google.com/store/apps/details?id=com.armorgames.sodadungeon&hl=Us&gl=US) ([Next in the series](https://play.google.com/store/apps/details?id=com.armorgames.sodadungeon2&hl=Us&gl=US))
 - [The Burnable Garbage Day](https://play.google.com/store/apps/details?id=com.gameon.anohiwa&hl=Us&gl=Us)
 
+## Dungeon Crawler
+- [Moonshades RPG dungeon crawler](https://play.google.com/store/apps/details?id=com.baldricksoft.moonshades_dungeon_crawler)
+
 ## Idle
 - [Clickpocalipse](https://play.google.com/store/apps/details?id=com.minmaxia.c2&hl=Us&gl=Us)
 - [GodVille](https://play.google.com/store/apps/details?id=com.godvillegame.android&hl=Us&gl=Us)
