@@ -1,8 +1,11 @@
-# Awesome Android Games
-A curated list of awesome mobile games for android. because we are all tired of the "pay to win" Google Play's proposals.
+# List of favorite Android games 
+My preferred games for android. Because we are all tired of the "pay to win" Google Play's proposals, right?
 
 ## 4K
 - [Unciv](https://play.google.com/store/apps/details?id=com.unciv.app&hl=Us&gl=Us) ([Open Source](https://github.com/yairm210/Unciv))
+
+## Board
+- [Pawnbarian](https://play.google.com/store/apps/details?id=com.j4nw.Pawnbarian)
 
 ## Cards
 - [Card Crawl](https://play.google.com/store/apps/details?id=com.tinytouchtales.cardcrawl)
@@ -12,6 +15,9 @@ A curated list of awesome mobile games for android. because we are all tired of 
 ## Casual
 - [Dungeon Soda](https://play.google.com/store/apps/details?id=com.armorgames.sodadungeon&hl=Us&gl=US) ([Next in the series](https://play.google.com/store/apps/details?id=com.armorgames.sodadungeon2&hl=Us&gl=US))
 - [The Burnable Garbage Day](https://play.google.com/store/apps/details?id=com.gameon.anohiwa&hl=Us&gl=Us)
+
+## Dices
+- [Slice & Dice](https://play.google.com/store/apps/details?id=com.com.tann.dice&gl=US)
 
 ## Dungeon Crawler
 - [Moonshades RPG dungeon crawler](https://play.google.com/store/apps/details?id=com.baldricksoft.moonshades_dungeon_crawler)
@@ -29,13 +35,14 @@ A curated list of awesome mobile games for android. because we are all tired of 
 - [Pixel Dungeon](https://play.google.com/store/apps/details?id=com.watabou.pixeldungeon&hl=Us&gl=Us) ([Open Source](https://github.com/watabou/pixel-dungeon))
 - [Triglav](https://play.google.com/store/apps/details?id=com.SmokymonkeyS.Triglav&hl=Us&gl=US)
 
+## Rpg
+- [Naroth](https://play.google.com/store/apps/details?id=com.threed.jpct.games.rpg)
+
 ## Strategy
 - [Antiyoy](https://play.google.com/store/apps/details?id=yio.tro.antiyoy.android&hl=Us&gl=Us) ([Online Version](https://play.google.com/store/apps/details?id=yio.tro.onliyoy&hl=Us&gl=US))
 
-# Future candidates or noteworthy mentions
+## _Noteworthy mentions or Candidates_
 - [Heroism](https://play.google.com/store/apps/details?id=com.minmaxia.heroism) (Beta)
 - [Loggin Quest](https://play.google.com/store/apps/details?id=com.shirobakama.logquest&hl=Us&gl=US) ([Next in the series](https://play.google.com/store/apps/details?id=com.shirobakama.logquest2&hl=Us&gl=US)) (Rough Gem)
 - [SpacePlan](https://play.google.com/store/apps/details?id=com.devolver.spaceplan&hl=Us&gl=Us) (Not Free)
-- [Tower of Hero](https://play.google.com/store/apps/details?id=com.Tatsuki.Tower&hl=Us&gl=US) (Avarage longevity)
 - [Underhand](https://play.google.com/store/apps/details?id=edu.cornell.gdiac.underhand&hl=Us&gl=US) (I have to play it)
-- [Void Tyrant](https://play.google.com/store/apps/details?id=com.armorgames.voidtyrant&hl=Us&gl=US) (It's balanced?)
