@@ -8,7 +8,7 @@ My preferred games for android. Because we are all tired of the "pay to win" Goo
 - [Pawnbarian](https://play.google.com/store/apps/details?id=com.j4nw.Pawnbarian)
 
 ## Cards
-- [Card Crawl](https://play.google.com/store/apps/details?id=com.tinytouchtales.cardcrawl)
+- [Card Crawl](https://play.google.com/store/apps/details?id=com.tinytouchtales.cardcrawl) ([Next in the series](https://play.google.com/store/apps/details?id=com.tinytouchtales.cardcrawladventure))
 - [Card Thief](https://play.google.com/store/apps/details?id=com.tinytouchtales.cardthief)
 - [Dungeon Cards](https://play.google.com/store/apps/details?id=com.The717pixels.DungeonCards)
 
@@ -23,9 +23,13 @@ My preferred games for android. Because we are all tired of the "pay to win" Goo
 - [Moonshades RPG dungeon crawler](https://play.google.com/store/apps/details?id=com.baldricksoft.moonshades_dungeon_crawler)
 
 ## Idle
+- [Cave Heroes](https://play.google.com/store/apps/details?id=air.com.vstgames.idlecaveheroes.AndroidMain)
 - [Clickpocalipse](https://play.google.com/store/apps/details?id=com.minmaxia.c2&hl=Us&gl=Us)
 - [GodVille](https://play.google.com/store/apps/details?id=com.godvillegame.android&hl=Us&gl=Us)
 - [Idling to Rule the Gods](https://play.google.com/store/apps/details?id=de.shugasu.itrtg&hl=Us&gl=Us)
+
+## Puzzle
+- [quadline](https://play.google.com/store/apps/details?id=com.IvanKovalov.quadline.android)
 
 ## Roguelike
 - [Cardinal Quest](https://play.google.com/store/apps/details?id=air.com.tametick.cardinalquest&hl=Us&gl=US) ([Next in the series](https://play.google.com/store/apps/details?id=com.kongregate.mobile.cardinalquest.google))
@@ -36,7 +40,8 @@ My preferred games for android. Because we are all tired of the "pay to win" Goo
 - [Triglav](https://play.google.com/store/apps/details?id=com.SmokymonkeyS.Triglav&hl=Us&gl=US)
 
 ## Rpg
-- [Naroth](https://play.google.com/store/apps/details?id=com.threed.jpct.games.rpg)
+- [Darkrise](https://play.google.com/store/apps/details?id=com.Roika.Darkrise) (2D Side Scroller Action Rpg)
+- [Naroth](https://play.google.com/store/apps/details?id=com.threed.jpct.games.rpg) (First Person)
 
 ## Strategy
 - [Antiyoy](https://play.google.com/store/apps/details?id=yio.tro.antiyoy.android&hl=Us&gl=Us) ([Online Version](https://play.google.com/store/apps/details?id=yio.tro.onliyoy&hl=Us&gl=US))
