@@ -15,9 +15,16 @@ My preferred games for android. Because we are all tired of the "pay to win" Goo
 ## Casual
 - [Dungeon Soda](https://play.google.com/store/apps/details?id=com.armorgames.sodadungeon&hl=Us&gl=US) ([Next in the series](https://play.google.com/store/apps/details?id=com.armorgames.sodadungeon2&hl=Us&gl=US))
 - [The Burnable Garbage Day](https://play.google.com/store/apps/details?id=com.gameon.anohiwa&hl=Us&gl=Us)
+- [Vector Pinball](https://play.google.com/store/apps/details?id=com.dozingcatsoftware.bouncy)
+
+## City Build
+- [OpenTTD](https://play.google.com/store/apps/details?id=org.openttd.sdl) ([OpenSource](https://github.com/OpenTTD/OpenTTD))
 
 ## Dices
 - [Slice & Dice](https://play.google.com/store/apps/details?id=com.com.tann.dice&gl=US)
+
+## Dual Stick Shooter
+- [20 Minutes Till Dawn](https://play.google.com/store/apps/details?id=com.Flanne.MinutesTillDawn.roguelike.shooting.fr.gp)
 
 ## Dungeon Crawler
 - [Moonshades RPG dungeon crawler](https://play.google.com/store/apps/details?id=com.baldricksoft.moonshades_dungeon_crawler)
@@ -43,8 +50,12 @@ My preferred games for android. Because we are all tired of the "pay to win" Goo
 - [Darkrise](https://play.google.com/store/apps/details?id=com.Roika.Darkrise) (2D Side Scroller Action Rpg)
 - [Naroth](https://play.google.com/store/apps/details?id=com.threed.jpct.games.rpg) (First Person)
 
+## Squad Management
+- [Vodobanka](https://play.google.com/store/apps/details?id=yio.tro.vodobanka)
+
 ## Strategy
 - [Antiyoy](https://play.google.com/store/apps/details?id=yio.tro.antiyoy.android&hl=Us&gl=Us) ([Online Version](https://play.google.com/store/apps/details?id=yio.tro.onliyoy&hl=Us&gl=US))
+- [Warfare Incorporated](https://play.google.com/store/apps/details?id=com.spiffcode.wi)
 
 ## _Noteworthy mentions or Candidates_
 - [Heroism](https://play.google.com/store/apps/details?id=com.minmaxia.heroism) (Beta)
