@@ -4,6 +4,9 @@ My preferred games for android. Because we are all tired of the "pay to win" Goo
 ## 4K
 - [Unciv](https://play.google.com/store/apps/details?id=com.unciv.app&hl=Us&gl=Us) ([Open Source](https://github.com/yairm210/Unciv))
 
+## Action
+- [Darkrise - Pixel Action RPG](https://play.google.com/store/apps/details?id=com.Roika.Darkrise)
+
 ## Board
 - [Pawnbarian](https://play.google.com/store/apps/details?id=com.j4nw.Pawnbarian)
 
@@ -34,6 +37,7 @@ My preferred games for android. Because we are all tired of the "pay to win" Goo
 - [Clickpocalipse](https://play.google.com/store/apps/details?id=com.minmaxia.c2&hl=Us&gl=Us)
 - [GodVille](https://play.google.com/store/apps/details?id=com.godvillegame.android&hl=Us&gl=Us)
 - [Idling to Rule the Gods](https://play.google.com/store/apps/details?id=de.shugasu.itrtg&hl=Us&gl=Us)
+- [Wizard's Wheel 2: Idle RPG](https://play.google.com/store/apps/details?id=com.WindingClock.WizardsWheel2)
 
 ## Puzzle
 - [quadline](https://play.google.com/store/apps/details?id=com.IvanKovalov.quadline.android)
