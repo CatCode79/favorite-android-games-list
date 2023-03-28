@@ -6,6 +6,8 @@ My preferred games for android. Because we are all tired of the "pay to win" Goo
 
 ## Action
 - [Darkrise - Pixel Action RPG](https://play.google.com/store/apps/details?id=com.Roika.Darkrise)
+- [Pocket Roguelike](https://play.google.com/store/apps/details?id=com.takomogames.pocketroguelike)
+- [Sacrificial Path - Roguelike P](https://play.google.com/store/apps/details?id=com.companyname.SacPath)
 
 ## Board
 - [Pawnbarian](https://play.google.com/store/apps/details?id=com.j4nw.Pawnbarian)
@@ -20,7 +22,8 @@ My preferred games for android. Because we are all tired of the "pay to win" Goo
 - [The Burnable Garbage Day](https://play.google.com/store/apps/details?id=com.gameon.anohiwa&hl=Us&gl=Us)
 - [Vector Pinball](https://play.google.com/store/apps/details?id=com.dozingcatsoftware.bouncy)
 
-## City Build
+## City/Dungeon Build
+- [Guild of Dungeoneering](https://play.google.com/store/apps/details?id=air.com.gambrinous.guildofdungeoneering)
 - [OpenTTD](https://play.google.com/store/apps/details?id=org.openttd.sdl) ([OpenSource](https://github.com/OpenTTD/OpenTTD))
 
 ## Dices
@@ -37,9 +40,12 @@ My preferred games for android. Because we are all tired of the "pay to win" Goo
 - [Clickpocalipse](https://play.google.com/store/apps/details?id=com.minmaxia.c2&hl=Us&gl=Us)
 - [GodVille](https://play.google.com/store/apps/details?id=com.godvillegame.android&hl=Us&gl=Us)
 - [Idling to Rule the Gods](https://play.google.com/store/apps/details?id=de.shugasu.itrtg&hl=Us&gl=Us)
+- [Impossible Dungeon](https://play.google.com/store/apps/details?id=com.minmaxia.impossible)
 - [Wizard's Wheel 2: Idle RPG](https://play.google.com/store/apps/details?id=com.WindingClock.WizardsWheel2)
 
 ## Puzzle
+- [Hexagon Dungeon](https://play.google.com/store/apps/details?id=com.BleorPz.MakeMetrocity)
+- [Somnus : Nonogram](https://play.google.com/store/apps/details?id=com.gamefox.somnus)
 - [quadline](https://play.google.com/store/apps/details?id=com.IvanKovalov.quadline.android)
 
 ## Roguelike
@@ -52,6 +58,7 @@ My preferred games for android. Because we are all tired of the "pay to win" Goo
 
 ## Rpg
 - [Darkrise](https://play.google.com/store/apps/details?id=com.Roika.Darkrise) (2D Side Scroller Action Rpg)
+- [Minimal Dungeon RPG](https://play.google.com/store/apps/details?id=com.capplay.mdrpg)
 - [Naroth](https://play.google.com/store/apps/details?id=com.threed.jpct.games.rpg) (First Person)
 
 ## Squad Management
@@ -62,7 +69,5 @@ My preferred games for android. Because we are all tired of the "pay to win" Goo
 - [Warfare Incorporated](https://play.google.com/store/apps/details?id=com.spiffcode.wi)
 
 ## _Noteworthy mentions or Candidates_
-- [Heroism](https://play.google.com/store/apps/details?id=com.minmaxia.heroism) (Beta)
 - [Loggin Quest](https://play.google.com/store/apps/details?id=com.shirobakama.logquest&hl=Us&gl=US) ([Next in the series](https://play.google.com/store/apps/details?id=com.shirobakama.logquest2&hl=Us&gl=US)) (Rough Gem)
 - [SpacePlan](https://play.google.com/store/apps/details?id=com.devolver.spaceplan&hl=Us&gl=Us) (Not Free)
-- [Underhand](https://play.google.com/store/apps/details?id=edu.cornell.gdiac.underhand&hl=Us&gl=US) (I have to play it)
