@@ -8,6 +8,7 @@ My preferred games for android. Because we are all tired of the "pay to win" Goo
 - [Darkrise - Pixel Action RPG](https://play.google.com/store/apps/details?id=com.Roika.Darkrise)
 - [Pocket Roguelike](https://play.google.com/store/apps/details?id=com.takomogames.pocketroguelike)
 - [Sacrificial Path - Roguelike P](https://play.google.com/store/apps/details?id=com.companyname.SacPath)
+- [Smash Hit](https://play.google.com/store/apps/details?id=com.mediocre.smashhit) (From the same author of the voxel video game Teardown)
 
 ## Board
 - [Pawnbarian](https://play.google.com/store/apps/details?id=com.j4nw.Pawnbarian)
@@ -31,6 +32,7 @@ My preferred games for android. Because we are all tired of the "pay to win" Goo
 
 ## Dual Stick Shooter
 - [20 Minutes Till Dawn](https://play.google.com/store/apps/details?id=com.Flanne.MinutesTillDawn.roguelike.shooting.fr.gp)
+- [Wasteland Story: Survival RPG](https://play.google.com/store/apps/details?id=com.LunariteStudio.WastelandStory)
 
 ## Dungeon Crawler
 - [Moonshades RPG dungeon crawler](https://play.google.com/store/apps/details?id=com.baldricksoft.moonshades_dungeon_crawler)
