@@ -69,6 +69,3 @@ My preferred games for android. Because we are all tired of the "pay to win" Goo
 ## Strategy
 - [Antiyoy](https://play.google.com/store/apps/details?id=yio.tro.antiyoy.android&hl=Us&gl=Us) ([Online Version](https://play.google.com/store/apps/details?id=yio.tro.onliyoy&hl=Us&gl=US))
 - [Warfare Incorporated](https://play.google.com/store/apps/details?id=com.spiffcode.wi)
-
-## _Noteworthy mentions or Candidates_
-- [SpacePlan](https://play.google.com/store/apps/details?id=com.devolver.spaceplan&hl=Us&gl=Us) (Not Free)
