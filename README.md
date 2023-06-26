@@ -5,8 +5,6 @@ My preferred games for android. Because we are all tired of the "pay to win" Goo
 - [Unciv](https://play.google.com/store/apps/details?id=com.unciv.app&hl=Us&gl=Us) ([Open Source](https://github.com/yairm210/Unciv))
 
 ## Action
-- [Darkrise - Pixel Action RPG](https://play.google.com/store/apps/details?id=com.Roika.Darkrise) (2D Side Scroller Action Rpg)
-- [Pocket Roguelike](https://play.google.com/store/apps/details?id=com.takomogames.pocketroguelike)
 - [Sacrificial Path - Roguelike P](https://play.google.com/store/apps/details?id=com.companyname.SacPath)
 - [Smash Hit](https://play.google.com/store/apps/details?id=com.mediocre.smashhit) (From the same author of the voxel video game Teardown)
 
@@ -59,8 +57,10 @@ My preferred games for android. Because we are all tired of the "pay to win" Goo
 - [Triglav](https://play.google.com/store/apps/details?id=com.SmokymonkeyS.Triglav&hl=Us&gl=US)
 
 ## Rpg
+- [Darkrise - Pixel Action RPG](https://play.google.com/store/apps/details?id=com.Roika.Darkrise) (2D Side Scroller Action Rpg)
 - [Minimal Dungeon RPG](https://play.google.com/store/apps/details?id=com.capplay.mdrpg)
 - [Naroth](https://play.google.com/store/apps/details?id=com.threed.jpct.games.rpg) (First Person)
+- [Pocket Roguelike](https://play.google.com/store/apps/details?id=com.takomogames.pocketroguelike)
 - [Wasteland Story: Survival RPG](https://play.google.com/store/apps/details?id=com.LunariteStudio.WastelandStory)
 
 ## Squad Management
