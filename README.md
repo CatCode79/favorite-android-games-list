@@ -42,7 +42,7 @@ My preferred games for android. Because we are all tired of the "pay to win" Goo
 - [GodVille](https://play.google.com/store/apps/details?id=com.godvillegame.android&hl=Us&gl=Us)
 - [Idling to Rule the Gods](https://play.google.com/store/apps/details?id=de.shugasu.itrtg&hl=Us&gl=Us)
 - [Impossible Dungeon](https://play.google.com/store/apps/details?id=com.minmaxia.impossible)
-- [Loggin Quest](https://play.google.com/store/apps/details?id=com.shirobakama.logquest&hl=Us&gl=US) ([Next in the series](https://play.google.com/store/apps/details?id=com.shirobakama.logquest2&hl=Us&gl=US)) (Rough Gem)
+- [Loggin Quest 2](https://play.google.com/store/apps/details?id=com.shirobakama.logquest2&hl=Us&gl=US) (Hidden gem)
 - [Wizard's Wheel 2: Idle RPG](https://play.google.com/store/apps/details?id=com.WindingClock.WizardsWheel2)
 
 ## Puzzle
