@@ -44,7 +44,11 @@ My preferred games for android. Because we are all tired of the "pay to win" Goo
 - [Wizard's Wheel 2: Idle RPG](https://play.google.com/store/apps/details?id=com.WindingClock.WizardsWheel2)
 
 ## Puzzle
+- [Connect Me](https://play.google.com/store/apps/details?id=net.bohush.connect.me.logic.puzzle)
 - [Hexagon Dungeon](https://play.google.com/store/apps/details?id=com.BleorPz.MakeMetrocity)
+- [High Rise](https://play.google.com/store/apps/details?id=com.SMPL.HighRise)
+- [Hocus](https://play.google.com/store/apps/details?id=air.com.gamebrain.hocus)
+- [Mekorama](https://play.google.com/store/search?q=mekorama&c=apps)
 - [Somnus : Nonogram](https://play.google.com/store/apps/details?id=com.gamefox.somnus)
 - [quadline](https://play.google.com/store/apps/details?id=com.IvanKovalov.quadline.android)
 
@@ -58,6 +62,7 @@ My preferred games for android. Because we are all tired of the "pay to win" Goo
 
 ## Rpg
 - [Darkrise - Pixel Action RPG](https://play.google.com/store/apps/details?id=com.Roika.Darkrise) (2D Side Scroller Action Rpg)
+- [Epic Conquest](https://play.google.com/store/apps/details?id=com.gacogames.epiccon)
 - [Minimal Dungeon RPG](https://play.google.com/store/apps/details?id=com.capplay.mdrpg)
 - [Naroth](https://play.google.com/store/apps/details?id=com.threed.jpct.games.rpg) (First Person)
 - [Pocket Roguelike](https://play.google.com/store/apps/details?id=com.takomogames.pocketroguelike)
