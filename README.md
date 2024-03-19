@@ -10,7 +10,7 @@ My preferred games for android. Because we are all tired of the "pay to win" Goo
 
 ## Board
 - [Pawnbarian](https://play.google.com/store/apps/details?id=com.j4nw.Pawnbarian)
-- [King God Castle](https://play.google.com/store/apps/details?id=com.awesomepiece.castle&pli=1)
+- [King God Castle](https://play.google.com/store/apps/details?id=com.awesomepiece.castle)
 
 ## Cards
 - [Card Crawl](https://play.google.com/store/apps/details?id=com.tinytouchtales.cardcrawl) ([Next in the series](https://play.google.com/store/apps/details?id=com.tinytouchtales.cardcrawladventure))
@@ -75,3 +75,6 @@ My preferred games for android. Because we are all tired of the "pay to win" Goo
 ## Strategy
 - [Antiyoy](https://play.google.com/store/apps/details?id=yio.tro.antiyoy.android&hl=Us&gl=Us) ([Online Version](https://play.google.com/store/apps/details?id=yio.tro.onliyoy&hl=Us&gl=US))
 - [Warfare Incorporated](https://play.google.com/store/apps/details?id=com.spiffcode.wi)
+
+## Tower Defense
+- [Medieval: Defense & Conquest](https://play.google.com/store/apps/details?id=com.brusgames.kingofcrusaderstrongholds)
