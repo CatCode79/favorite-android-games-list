@@ -10,6 +10,7 @@ My preferred games for android. Because we are all tired of the "pay to win" Goo
 
 ## Board
 - [Pawnbarian](https://play.google.com/store/apps/details?id=com.j4nw.Pawnbarian)
+- [King God Castle](https://play.google.com/store/apps/details?id=com.awesomepiece.castle&pli=1)
 
 ## Cards
 - [Card Crawl](https://play.google.com/store/apps/details?id=com.tinytouchtales.cardcrawl) ([Next in the series](https://play.google.com/store/apps/details?id=com.tinytouchtales.cardcrawladventure))
