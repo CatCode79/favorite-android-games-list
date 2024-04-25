@@ -37,6 +37,7 @@ My preferred games for android. Because we are all tired of the "pay to win" Goo
 
 ## Idle
 - [Cave Heroes](https://play.google.com/store/apps/details?id=air.com.vstgames.idlecaveheroes.AndroidMain)
+- [Champions of Avan](https://play.google.com/store/apps/details?id=com.earlymorningstudio.championsofavan)
 - [Clickpocalipse 2](https://play.google.com/store/apps/details?id=com.minmaxia.c2&hl=Us&gl=Us)
 - [GodVille](https://play.google.com/store/apps/details?id=com.godvillegame.android&hl=Us&gl=Us)
 - [Idling to Rule the Gods](https://play.google.com/store/apps/details?id=de.shugasu.itrtg&hl=Us&gl=Us)
