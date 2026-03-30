@@ -5,7 +5,7 @@ My preferred games for android. Because we are all tired of the "pay to win" Goo
 - [Unciv](https://play.google.com/store/apps/details?id=com.unciv.app&hl=Us&gl=Us) ([Open Source](https://github.com/yairm210/Unciv))
 
 ## Action
-- [Sacrificial Path - Roguelike P](https://play.google.com/store/apps/details?id=com.companyname.SacPath)
+- [Sacrificial Path - Roguelike P](https://play.google.com/store/apps/details?id=com.companyname.SacPath) (Broken link: you may found it at: https://kjgamez.itch.io/sacrificial-path)
 - [Smash Hit](https://play.google.com/store/apps/details?id=com.mediocre.smashhit) (From the same author of the voxel video game Teardown)
 
 ## Board
@@ -18,16 +18,14 @@ My preferred games for android. Because we are all tired of the "pay to win" Goo
 - [Dungeon Cards](https://play.google.com/store/apps/details?id=com.The717pixels.DungeonCards)
 
 ## Casual
-- [Dungeon Soda](https://play.google.com/store/apps/details?id=com.armorgames.sodadungeon&hl=Us&gl=US) ([Next in the series](https://play.google.com/store/apps/details?id=com.armorgames.sodadungeon2&hl=Us&gl=US))
-- [The Burnable Garbage Day](https://play.google.com/store/apps/details?id=com.gameon.anohiwa&hl=Us&gl=Us)
+- [Dungeon Soda 2](https://play.google.com/store/apps/details?id=com.armorgames.sodadungeon2&hl=Us&gl=US)
 - [Vector Pinball](https://play.google.com/store/apps/details?id=com.dozingcatsoftware.bouncy)
 
 ## City/Dungeon Build
-- [Guild of Dungeoneering](https://play.google.com/store/apps/details?id=air.com.gambrinous.guildofdungeoneering)
 - [OpenTTD](https://play.google.com/store/apps/details?id=org.openttd.sdl) ([OpenSource](https://github.com/OpenTTD/OpenTTD))
 
 ## Dices
-- [Slice & Dice](https://play.google.com/store/apps/details?id=com.com.tann.dice&gl=US)
+- [Slice & Dice](https://play.google.com/store/apps/details?id=com.com.tann.dice&gl=US) ❤️
 
 ## Dual Stick Shooter
 - [20 Minutes Till Dawn](https://play.google.com/store/apps/details?id=com.Flanne.MinutesTillDawn.roguelike.shooting.fr.gp)
@@ -36,7 +34,6 @@ My preferred games for android. Because we are all tired of the "pay to win" Goo
 - [Moonshades RPG dungeon crawler](https://play.google.com/store/apps/details?id=com.baldricksoft.moonshades_dungeon_crawler)
 
 ## Idle
-- [Cave Heroes](https://play.google.com/store/apps/details?id=air.com.vstgames.idlecaveheroes.AndroidMain)
 - [Champions of Avan](https://play.google.com/store/apps/details?id=com.earlymorningstudio.championsofavan)
 - [Clickpocalipse 2](https://play.google.com/store/apps/details?id=com.minmaxia.c2&hl=Us&gl=Us)
 - [GodVille](https://play.google.com/store/apps/details?id=com.godvillegame.android&hl=Us&gl=Us)
